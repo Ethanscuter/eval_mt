@@ -8,7 +8,7 @@
 pip install jieba bert-score sacrebleu torch pandas unbabel-comet nltk
 ```
 
-其他语象
+其他语向
 ```
 pip install "sacrebleu[ja]" "sacrebleu[ko]"
 pip install unidic-lite
